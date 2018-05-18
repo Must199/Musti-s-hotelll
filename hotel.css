@@ -1,0 +1,69 @@
+body{
+	background-image: url(backfround.hotell.jpg); 
+	width: 100%; 
+	background-attachment: fixed;
+
+
+} 
+nav ul li:hover{
+	background-color: #002270; 
+}
+.selected{
+	background-color: #002270;
+}
+
+#row{
+	margin-left: 5%;
+	width: 90%;
+}
+#Baha{
+	margin-left: 5%;
+	width: 90%;
+}
+p{
+	font-size:125%;  
+	font-family: TimesNewRoman,"times new roman",serif;
+} 
+
+
+#carousel{
+	width: 90%; 
+	margin-left: 5%;       
+	margin-top: 0.5%;
+} 
+
+nav{
+	width: 90%; 
+	margin-left: 5%;  
+} 
+nav li{
+	font-size: 20px;
+}
+#text{
+	width: 90%; 
+	margin-left: 5%; 
+	border: 1.5px #ADC6FF solid;
+	border-radius: 0.5%;
+	margin-top: -1%;
+	background-color:#1A5FFF; 
+	color: white; 
+	font-family:TimesNewRoman;
+	text-align: center; 
+
+} 
+
+
+
+footer{
+	width: 90%; 
+	margin-left:5%; 
+	background-color: #1A5FFF; 
+	text-align: center; 
+	color: white; 
+	margin-top: 0.25%;
+} 
+
+.iframe{
+    width: 90%;
+    height: 500px;
+}
